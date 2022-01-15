@@ -1,0 +1,16 @@
+  {/* <div className="home">
+            <div className="title">
+                <h1>
+                    <p>Hi,</p>
+                    <p>I am Stanislau</p>
+                    <p>Software Developer</p>
+                </h1>
+                <Link to="/about">
+                    <button>More Info</button>
+                </Link>
+            </div>
+            <div className="person">
+                <img src={`${process.env.PUBLIC_URL}/max.png`} alt={"pessoa"} />
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum facilis quos nihil.
+            </div>
+    </div>*/}
